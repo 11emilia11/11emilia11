@@ -1,14 +1,30 @@
-# 🌸 Welcome to Emilia's Github 
+ # 🌸 Welcome to Emilia's Github 
 
 
-:computer: I'm a computer science student at UFRPE and I do research using Artificial Intelligence. 
-I'm curretly working on my personal projects, and I'm 
-starting to learn Data Science with a Coursera Specialization. 
-I also like to learn web development, and here in my GitHub page you can find
-the projects that I'm actually doing, and also some of my past projects from college (like evolutionary computing and text mining) and some
-of my personal projects (like the web development, and the Data Science courses). 
+:computer: Computer science student at UFRPE 
 
-:octocat: Feel free to have a look at my code and to use it too 
+
+:microscope: Academic research using **Artificial Intelligence**.
+
+
+
+:newspaper: Currently learning **Data Science** and **Web Development**
+
+
+
+:pushpin: Programming Languages: **Python(mostly), C, Java, currently learning R**
+
+
+
+:notebook_with_decorative_cover: Languages: Portuguese, English, French
+
+
+
+
+
+
+
+:octocat: Feel free to have a look at my code and to use it too
 <!--
 **11emilia11/11emilia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
