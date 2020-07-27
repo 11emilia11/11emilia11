@@ -1,22 +1,22 @@
  # 🌸 Welcome to Emilia's Github 
 
 
-:computer: Computer science student at UFRPE 
+:computer: Computer science student at UFRPE.
 
 
 :microscope: Academic research using **Artificial Intelligence**.
 
 
 
-:newspaper: Currently learning **Data Science** and **Web Development**
+:newspaper: Currently learning **Data Science** and **Web Development**.
 
 
 
-:pushpin: Programming Languages: **Python(mostly), C, Java, currently learning R**
+:pushpin: Programming Languages: **Python(mostly), C, Java, currently learning R**.
 
 
 
-:notebook_with_decorative_cover: Languages: Portuguese, English, French
+:notebook_with_decorative_cover: Languages: Portuguese, English, French.
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-:octocat: Feel free to have a look at my code and to use it too
+:octocat: Feel free to have a look at my code and to use it too.
 <!--
 **11emilia11/11emilia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
