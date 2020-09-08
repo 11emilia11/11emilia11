@@ -8,7 +8,7 @@
 
 
 
-:newspaper: Currently learning **Data Science** and **Web Development**.
+:newspaper: Currently learning **Data Science**.
 
 
 
