@@ -12,7 +12,7 @@
 
 
 
-:pushpin: Programming Languages: **Python(mostly), C, Java.
+:pushpin: Programming Languages: **Python(mostly), C, Java**.
 
 
 
