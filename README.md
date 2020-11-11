@@ -3,6 +3,7 @@
 
 :computer: Computer science student at UFRPE.
 
+ 🔭 I'm currently working as Data Science Intern at ODG-UFRPE
 
 :microscope: Academic research using **Artificial Intelligence**.
 
