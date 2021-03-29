@@ -1,9 +1,9 @@
  # 🌸 Welcome to Emilia's Github 
 
 
-:computer: Computer science student at UFRPE.
+:computer: Master Degree student at UFRPE - PPGIA.
 
- 🔭 I'm currently working as Data Science Intern at ODG-UFRPE
+
 
 :microscope: Academic research using **Artificial Intelligence**.
 
