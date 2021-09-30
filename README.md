@@ -12,11 +12,6 @@
 :newspaper: Currently learning **Data Science**.
 
 
-
-:pushpin: Programming Languages: **Python(mostly), C, Java**.
-
-
-
 :notebook_with_decorative_cover: Languages: Portuguese, English, French.
 
 
