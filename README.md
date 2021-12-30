@@ -1,26 +1,24 @@
- # 🌸 Welcome to Emilia's Github 
+ # 🌸🌸🌸
 
 
 :computer: Master Degree student at UFRPE - PPGIA.
 
 
 
-:microscope: Academic research using **Artificial Intelligence**.
+:microscope: Academic research in Computer Vision and Deep Learning.
 
 
 
-:newspaper: Currently learning **Data Science**.
-
-
-:notebook_with_decorative_cover: Languages: Portuguese, English, French.
-
+:newspaper: Analytics Jr BI.
 
 
 
 
 
 
-:octocat: Feel free to have a look at my code and to use it too.
+
+
+
 <!--
 **11emilia11/11emilia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
