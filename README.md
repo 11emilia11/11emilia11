@@ -1,4 +1,3 @@
- # 🌸🌸🌸
 
 
 :computer: Master Degree student at UFRPE - PPGIA.
