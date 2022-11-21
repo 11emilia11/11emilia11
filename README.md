@@ -8,7 +8,7 @@
 
 
 
-:newspaper: Analytics Jr BI.
+:newspaper: Data Scientist
 
 
 
